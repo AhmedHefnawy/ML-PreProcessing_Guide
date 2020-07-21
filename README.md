@@ -14,4 +14,5 @@ During my studies in data science and working on machine learning projects i dec
 You can use it as ## A reference and guide for projects
 to know the PreProcessing best practise 
 
-![Image of Preprocessing Steps](https://www.researchgate.net/profile/Kraisak_Kesorn/publication/327759880/figure/fig10/AS:673198895017986@1537514532279/Major-tasks-of-data-preprocessing-to-enhance-data-quality-before-using-in-a-forecasting.png)
+references
+[sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
